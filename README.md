@@ -1,17 +1,21 @@
-### Hi there 👋
-
 <!--
 **donkhoanguyen/donkhoanguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-# Hi there! 👋
+# Hi, it's Don! 👋
 
+Data Science (+ Business) @ University of Rochester. Interested in Data Engineering, Data Mining, and ultimately Machine Learning. 
+I’m currently learning: MapReduce, PyTorch, TensorFlow, Time Series Analysis
 
-🌱 I’m currently learning: MapReduce, PyTorch, TensorFlow, Time Series Analysis
+## Experience:
+- Data Science Researcher @ [University of Rochester](https://www.rochester.edu/) on Green View Index calculation.
+- Data Engineer intern @ [Vietcombank](https://www.vietcombank.com.vn/en/Ve-Vietcombank) on Knowledge Graph RAG.
+- People Analytics, Data Intern @ [FPT HRIS](https://fpt.vn/en/about-fpt-telecom/introduction.html).
+- Data Analyst intern, Petrol Risk Advisory @ [Deloitte](https://www2.deloitte.com/vn/en.html).
 
-## 🚀 Skills:
+## Skills:
 
 **Languages:**  Python, SQL, R, Java, JavaScript, HTML/CSS, PHP
 
