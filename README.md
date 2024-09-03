@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 # Hi, it's Don! 👋
 
-Data Science (+ Business) @ University of Rochester. Interested in Data Engineering, Data Mining, and ultimately Machine Learning. 
+Data Science (+ Business) @ University of Rochester. Interested in Data Engineering, Data Mining, and ultimately Machine Learning.   
 I’m currently learning: MapReduce, PyTorch, TensorFlow, Time Series Analysis
 
 ## Experience:
