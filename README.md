@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 # Hi, it's Don! 👋
 
 - Data Science (+ Business) @ University of Rochester.
-- Interested in Data Engineering, Data Mining from information, and ultimately Machine Learning. Or Poker.  
+- Data Engineering, cause you can't cook without the food. And ultimately Machine Learning. Or Poker.  
 - I’m currently learning: MapReduce, PyTorch, TensorFlow, Time Series Analysis.
 - Message me via [mail](knguy42@u.rochester.edu) or [linkedin](https://www.linkedin.com/in/don-nguyen-854106228/)
 
