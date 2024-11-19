@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 ## Experience:
-- Data Science Researcher @ [University of Rochester](https://www.rochester.edu/) on Green View Index calculation.
+- Data Science Researcher @ [University of Rochester](https://www.rochester.edu/) at Vista Lab, striving get my first publication by March
 - Data Engineer Intern @ [Vietcombank](https://www.vietcombank.com.vn/en/Ve-Vietcombank) on Knowledge Graph RAG.
 - People Analytics, Data Intern @ [FPT HRIS](https://fpt.vn/en/about-fpt-telecom/introduction.html).
 - Data Analyst Intern, Petrol Risk Advisory @ [Deloitte](https://www2.deloitte.com/vn/en.html).
