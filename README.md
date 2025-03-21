@@ -7,12 +7,11 @@ Here are some ideas to get you started:
 # Hi, it's Don! 👋
 
 - Data Science (+ Business) @ University of Rochester. Machine Learning Engineering enthusiast.
-- I’m currently learning: Kubernetes, LSTM, and RAG models.
 - Message me via [mail](knguy42@u.rochester.edu) or [linkedin](https://www.linkedin.com/in/don-nguyen-854106228/)
 
 
 ## Experience:
-- Data Science Researcher @ [University of Rochester](https://www.rochester.edu/) at Vista Lab, striving get my first publication by March
+- Researcher Assistant @ [University of Rochester](https://www.rochester.edu/) at Vista Lab
 - Data Engineer Intern @ [Vietcombank](https://www.vietcombank.com.vn/en/Ve-Vietcombank) on Knowledge Graph RAG.
 - People Analytics, Data Intern @ [FPT HRIS](https://fpt.vn/en/about-fpt-telecom/introduction.html).
 - Data Analyst Intern, Petrol Risk Advisory @ [Deloitte](https://www2.deloitte.com/vn/en.html).
